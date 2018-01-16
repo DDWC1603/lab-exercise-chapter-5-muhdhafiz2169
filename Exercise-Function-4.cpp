@@ -1,4 +1,5 @@
 //finish up this program.thanks.
+//
 
 #include <iostream>
 #include <iomanip>
@@ -23,5 +24,7 @@ void OmbakKeluar()
 {
 
 	cout<<"\nwaveDemo\n";
-	petakPelik();
+	ombakOmbak();
 }
+
+
